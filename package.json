@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "homepage": "https://shaileshlathiya.github.io/s3ui",
     "create-react-app": "^1.3.3",
     "global": "^4.3.2"
   }
